@@ -1,0 +1,27 @@
+.step {
+    float: left;
+    display: block;
+    margin: 10px;
+    padding: 10px;
+    width: 150px;
+    height: 200px;
+    border: solid 1px red;
+    border-radius: 40px;
+    background-color: red;
+    color: white;
+    text-align: center;
+    font-size: 1.2em;
+}
+
+.one {
+    background-color: red;
+}
+
+.two {
+    background-color: yellow;
+    color: black;
+}
+
+.three {
+    background-color: green;
+}
